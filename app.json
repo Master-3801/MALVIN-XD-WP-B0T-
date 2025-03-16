@@ -1,6 +1,6 @@
 {
   "name": "✦ᴍᴀʟᴠɪɴ-xᴅ✦",
-  "description": "Javascript WhatsApp bot made by ✦ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ✦",
+  "description": "Javascript WhatsApp bot made by ✦ Tom ✦",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "MALVIN-XD~x8oGVIzD#wY8OjfoWi6WxZpGgJwISoA3xJw5lCJzlWVnWaI3ZgaE",
       "required": true,
       "value": ""
     },  
